@@ -1,0 +1,7 @@
+{
+  "name": "BlankScreenFixedIssueDemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
