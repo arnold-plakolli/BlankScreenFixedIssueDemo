@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'com.arnoldplakolli.blankscreenfixedissuedemo',
   appName: 'BlankScreenFixedIssueDemo',
   webDir: 'www',
   bundledWebRuntime: false
